@@ -16,9 +16,9 @@
 
 ## Typescript Object Oriented Programming
 
-| No  |                                Basic Object Oriented programming                                 | Languange  |
-| :-: | :----------------------------------------------------------------------------------------------: | :--------: |
-|  1  | [Class](https://github.com/aldoignatachandra/Fundamental-Typescript/blob/master/src/01-Class.ts) | Typescript |
+| No  |                            Basic Object Oriented programming                             | Languange  |
+| :-: | :--------------------------------------------------------------------------------------: | :--------: |
+|  1  | [Class](https://github.com/aldoignatachandra/Typescript-OOP/blob/master/src/01-Class.ts) | Typescript |
 
 ## Installation
 

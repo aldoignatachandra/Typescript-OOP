@@ -1,0 +1,15 @@
+{
+  "name": "Typescript-OOP",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "tsc": "rm -rf build/ && tsc",
+    "ts": "rm -rf build/ && tsc -w",
+    "dev": "nodemon ./build/01-Class.js"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7",
+    "typescript": "^4.1.3"
+  }
+}
